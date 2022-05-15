@@ -1,0 +1,350 @@
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-15T140137.200.html
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-15T135806.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_10"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_9"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_8"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_7"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_6"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_5"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_4"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_3"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_10"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_9"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_8"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_7"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_6"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_5"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_4"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_3"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-15T131911.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-12T231931.200.html
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-12T231828.200.html
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-12T231709.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_10"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_9"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_8"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_7"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_6"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_5"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_4"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_3"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-11T193558.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-05-11T193548.200.html
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-04-24T224842.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_3"
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-04-24T224725.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-04-24T224616.200.html
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-04-24T192250.200.html
+
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+
+###
+
+GET http://localhost:8888/facade_service
+Accept: text/html
+
+<> 2022-04-24T192241.200.html
+
+###
+

@@ -1,0 +1,59 @@
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_1"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_2"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_3"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_4"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_5"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_6"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_7"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_8"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_9"
+###
+
+POST http://localhost:8888/facade_service
+Content-Type: application/json
+
+"message_10"
+###
